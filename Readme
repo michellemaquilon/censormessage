@@ -1,3 +1,5 @@
+PROBLEM DESCRIPTION
+
 Many people, after a late night, for whatever reason, tend to send emails or texts that they shouldn’t. Google has experimented with a feature that “blocks” these emails from being sent immediately. (What they do is ask the user some simple math questions before the send operation can execute. Their philosophy is that if someone can’t answer some simple math questions, then maybe the messages they are sending out aren’t the ones they would typically want to send out, under normal conditions.) You don’t want to get in trouble for stealing Google’s idea, but you’ve noticed that the same principle can be applied to text messages. In general, here is what you have noticed:
 
 All text messages sent in between 7:00am and 12:59am (the next day) are reasonably sound messages. But, some messages in between 1:00am and 6:59am tend to be suspect. To reduce your workload, (since censoring requires reading through the whole message), you will ONLY censor messages sent in between 1:00am and 6:59am. All other messages are automatically sent without inspection.
